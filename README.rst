@@ -17,6 +17,7 @@ Run locally for development
 It is better to have Python3 and using pip3 
 
 .. code-block:: bash
+
     git clone https://github.com/galaxyproject/cloudman.git
     cd cloudman
     pip install -r requirements.txt
