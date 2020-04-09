@@ -15,7 +15,7 @@ CloudMan is intended to be installed via the `CloudMan Helm chart`_.
 Run locally for development
 ---------------------------
 .. code-block:: bash
-
+It is better to have Python3 and using pip3 
     git clone https://github.com/galaxyproject/cloudman.git
     cd cloudman
     pip install -r requirements.txt
